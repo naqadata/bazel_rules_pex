@@ -1,0 +1,2 @@
+module(name = "rules_pex", version = "0.3.0")
+
